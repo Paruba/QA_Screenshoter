@@ -4,10 +4,7 @@
     "version": "1.0",
     "permissions": [
         "activeTab",
-        "storage",
         "tabs",
-        "scripting",
-        "tabCapture",
         "downloads"
     ],
     "action": {

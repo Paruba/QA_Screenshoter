@@ -1,11 +1,12 @@
 {
     "manifest_version": 3,
     "name": "QA screenshoter",
-    "version": "1.0",
+    "version": "1.1",
     "permissions": [
         "activeTab",
         "tabs",
-        "downloads"
+        "downloads",
+        "scripting"
     ],
     "action": {
         "default_popup": "index.html",
